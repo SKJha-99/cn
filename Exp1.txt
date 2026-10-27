@@ -1,0 +1,13 @@
+hostname
+ipconfig
+ipconfig /all
+getmac
+ping 127.0.0.1
+ping <default-gateway-IP>
+ping google.com
+nslookup google.com
+tracert google.com
+netstat -ano
+arp -a
+pathping google.com
+systeminfo
